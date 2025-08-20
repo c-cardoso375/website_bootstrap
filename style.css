@@ -1,3 +1,19 @@
 footer { 
     text-align: center;
 }
+body{
+    background-color: #000;
+}
+.carousel-item{
+    height: 500px;
+}
+.card-img-top{
+    height: 250px;
+    width: 350px;
+}
+footer{
+    text-align: center;
+}
+.nav-item{
+    color: white;
+}
